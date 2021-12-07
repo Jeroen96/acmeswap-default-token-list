@@ -1,9 +1,9 @@
 {
   "name": "FuseSwap Token List",
-  "timestamp": "2021-12-02T11:57:31.328Z",
+  "timestamp": "2021-12-07T11:40:48.103Z",
   "version": {
-    "major": 2,
-    "minor": 10,
+    "major": 1,
+    "minor": 0,
     "patch": 0
   },
   "tags": {},
@@ -31,12 +31,12 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6210.png"
     },
     {
-      "name": "Wrapped Fuse",
-      "address": "0xAAa03ba16fDdcAFfc03c6d19bF89f5669c15aDeb",
-      "symbol": "WFUSE",
+      "name": "Wrapped Ethereum",
+      "address": "0x278e081025E7035f1181ef58243996BF731D1a9e",
+      "symbol": "WETH",
       "decimals": 18,
       "chainId": 123,
-      "logoURI": "https://fuselogo.s3.eu-central-1.amazonaws.com/wfuse.png"
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2396.png"
     }
   ]
 }
