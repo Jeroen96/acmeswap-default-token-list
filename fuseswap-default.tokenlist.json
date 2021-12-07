@@ -1,13 +1,13 @@
 {
   "name": "FuseSwap Token List",
-  "timestamp": "2021-12-07T12:44:01.805Z",
+  "timestamp": "2021-12-07T12:51:01.805Z",
   "version": {
-    "major": 1,
-    "minor": 1,
-    "patch": 1
+    "major": 2,
+    "minor": 0,
+    "patch": 0
   },
   "tags": {},
-  "logoURI": "ipfs://QmQQGd3Kbb8fhxKQLvzPPngzBGd5aydV3QAigLHy53Hr3g",
+  "logoURI": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/143588628/original/07d1836d98009dc8b8dcbf4ea400b05a6f7f4695/make-you-a-meme-logo.png",
   "keywords": [
     "fuseswap",
     "fuse",
@@ -19,7 +19,7 @@
       "address": "0x012a5EB3c9603c4C53b8eCe722F03dE6bFa773A7",
       "symbol": "KEK",
       "decimals": 18,
-      "chainId": 123,
+      "chainId": 124,
       "logoURI": "https://cdn.shopify.com/s/files/1/2685/8754/products/Kek-Front_480x480.jpg"
     },
      {
@@ -27,7 +27,7 @@
       "address": "0xe8B82c2362f5cCe25599C3CCA4c8060eD5477074",
       "symbol": "SAND",
       "decimals": 18,
-      "chainId": 123,
+      "chainId": 124,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6210.png"
     },
     {
@@ -35,7 +35,7 @@
       "address": "0x278e081025E7035f1181ef58243996BF731D1a9e",
       "symbol": "WETH",
       "decimals": 18,
-      "chainId": 123,
+      "chainId": 124,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2396.png"
     }
   ]
