@@ -16,7 +16,7 @@
   "tokens": [
     {
       "name": "KekCoin",
-      "address": "0x781f63E1804AA995fc707c59078421a7f2cF86aA",
+      "address": "0x012a5EB3c9603c4C53b8eCe722F03dE6bFa773A7",
       "symbol": "KEK",
       "decimals": 18,
       "chainId": 123,
@@ -24,7 +24,7 @@
     },
      {
       "name": "SandCoin",
-      "address": "0x634427ec409fD57510Cb87A403EB95796F856164",
+      "address": "0xe8B82c2362f5cCe25599C3CCA4c8060eD5477074",
       "symbol": "SAND",
       "decimals": 18,
       "chainId": 123,
