@@ -1,10 +1,10 @@
 {
   "name": "FuseSwap Token List",
-  "timestamp": "2021-12-07T12:51:01.805Z",
+  "timestamp": "2021-12-07T12:56:00.805Z",
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   },
   "tags": {},
   "logoURI": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/143588628/original/07d1836d98009dc8b8dcbf4ea400b05a6f7f4695/make-you-a-meme-logo.png",
@@ -32,7 +32,7 @@
     },
     {
       "name": "Wrapped Ethereum",
-      "address": "0x278e081025E7035f1181ef58243996BF731D1a9e",
+      "address": "0x80851C5Bf9953F80BB10981C1148B096A2577013",
       "symbol": "WETH",
       "decimals": 18,
       "chainId": 124,
