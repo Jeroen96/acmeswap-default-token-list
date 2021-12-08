@@ -1,13 +1,13 @@
 {
-  "name": "FuseSwap Token List",
+  "name": "Spark Token List",
   "timestamp": "2021-12-02T11:57:31.328Z",
   "version": {
-    "major": 2,
-    "minor": 10,
+    "major": 3,
+    "minor": 0,
     "patch": 0
   },
   "tags": {},
-  "logoURI": "ipfs://QmQQGd3Kbb8fhxKQLvzPPngzBGd5aydV3QAigLHy53Hr3g",
+  "logoURI": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/143588628/original/07d1836d98009dc8b8dcbf4ea400b05a6f7f4695/make-you-a-meme-logo.png",
   "keywords": [
     "fuseswap",
     "fuse",
