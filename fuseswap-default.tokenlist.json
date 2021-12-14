@@ -1,8 +1,8 @@
 {
-  "name": "Spark Token List",
-  "timestamp": "2021-12-08T08:23:58.995Z",
+  "name": "AcmeSwap Token List [spark]",
+  "timestamp": "2021-12-14T10:07:06.831Z",
   "version": {
-    "major": 3,
+    "major": 4,
     "minor": 0,
     "patch": 0
   },
@@ -37,6 +37,22 @@
       "decimals": 18,
       "chainId": 123,
       "logoURI": "https://fuselogo.s3.eu-central-1.amazonaws.com/wfuse.png"
+    },
+    {
+      "name": "AcmeShare",
+      "address": "0xb58798f835c19AF5d47539cfEe9b432b3C8E3DFc",
+      "symbol": "ACME",
+      "decimals": 0,
+      "chainId": 123,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5632.png"
+    },
+    {
+      "name": "Beuro",
+      "address": "0xf2C55685f727534c67BD41Fbeeb0f69dC1D2642a",
+      "symbol": "BEURO",
+      "decimals": 2,
+      "chainId": 123,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2989.png"
     }
   ]
 }
