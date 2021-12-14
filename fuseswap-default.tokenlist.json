@@ -1,8 +1,8 @@
 {
-  "name": "AcmeSwap Token List [spark]",
+  "name": "AcmeSwap tokenlist",
   "timestamp": "2021-12-14T10:07:06.831Z",
   "version": {
-    "major": 4,
+    "major": 5,
     "minor": 0,
     "patch": 0
   },
