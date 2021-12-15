@@ -1,8 +1,8 @@
 {
   "name": "Ganache Token List",
-  "timestamp": "2021-12-07T14:00:35.561Z",
+  "timestamp": "2021-12-15T12:00:35.561Z",
   "version": {
-    "major": 3,
+    "major": 4,
     "minor": 0,
     "patch": 0
   },
@@ -37,6 +37,22 @@
       "decimals": 18,
       "chainId": 124,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2396.png"
+    },
+    {
+      "name": "AcmeShare",
+      "address": "0xf79A2594AC8eBbddB515fA8866e6062CC1048f7f",
+      "symbol": "ACME",
+      "decimals": 0,
+      "chainId": 124,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5632.png"
+    },
+    {
+      "name": "Beuro",
+      "address": "0x6c488DF7A46BDB53669be325F82dD44653d7D361",
+      "symbol": "BEURO",
+      "decimals": 2,
+      "chainId": 124,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2989.png"
     }
   ]
 }
